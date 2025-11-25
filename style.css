@@ -2,7 +2,8 @@ body{
     background-image:linear-gradient(to bottom,#F093FF, #FDF1FF);
 }
 h1{
-    font-family: 'Galada';font-size: 22px;
+    font-family: 'Galada';font-size: 50px;
     color: background-image:linear-gradient(to bottom, mediumpurple, skyblue,turquoise);
-};
+    text-align:center;
+}
 
