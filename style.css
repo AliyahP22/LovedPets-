@@ -16,13 +16,13 @@ img{
     padding: 5px;
     display: block;
     margin: auto;
-    width: 50%;
+    width: 30%;
 }
 .banner{
-  	margin:15px;
+  	margin:10px;
 	position: relative;
   	padding:15px;
- 	height:270px;
+ 	height:240px;
  	border: 10px solid #ffffff;
     box-shadow: 5px 2px 5px 5px #ddfddd;
 }
