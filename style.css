@@ -20,8 +20,20 @@ img{
 }
 .banner{
   	margin:15px;
+	position: relative;
   	padding:15px;
- 	 height:100px;
- 	 border: 10px solid #ffffff;
-	 box-shadow: 5px 2px 5px 5px #ddfddd;
+ 	height:300px;
+ 	border: 10px solid #ffffff;
+    box-shadow: 5px 2px 5px 5px #ddfddd;
+}
+nav{
+	position: absolute;
+	width: 100:
+}
+.menu{
+	display:flex;
+	justify-content: center:
+	margin: 0;
+	padding: 20px;
+	list-style:none;
 }
