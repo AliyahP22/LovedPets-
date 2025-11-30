@@ -41,3 +41,6 @@ nav{
 	list-style:none;
 	gap: 30px;
 }
+p{
+	text-align:center;
+}
