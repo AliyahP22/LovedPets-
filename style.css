@@ -43,5 +43,8 @@ nav{
 }
 p{
 	text-align:center;
-	font-family: 'Aref Ruqaa';font-size: 22px;
+	font-family: 'Aref Ruqaa';font-size: 30px;
+}
+ul{
+	font-size:30px;
 }
