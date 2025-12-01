@@ -6,7 +6,7 @@ body{
 }
 h1{
     font-family: 'Galada';font-size: 68px;
-    color: background-image:linear-gradient(to bottom, mediumpurple, skyblue,turquoise);
+    background-image:linear-gradient(to bottom, mediumpurple, skyblue,turquoise);
     text-align:center;
 }
 h3{
