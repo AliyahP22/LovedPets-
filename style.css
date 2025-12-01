@@ -29,6 +29,16 @@ img{
  	height:210px;
  	border: 10px solid #ffffff;
     box-shadow: 5px 2px 5px 5px #ddfddd;
+	display: flex;
+	align-items: center;
+	gap: 20px
+}
+.banner-logo{
+	width:100px;
+	height: auto;
+	border:none
+	padding: 0;
+	margin:  0;
 }
 nav{
 	position: absolute;
