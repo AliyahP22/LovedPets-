@@ -62,4 +62,12 @@ ul{
 ol{
 	font-size:30px;
 }
+form {
+  width: 300px;              
+  margin: 0 auto;             
+  padding: 20px;
+  background: #f9f9f9;        
+  border-radius: 10px;       
+  
+}
 
